@@ -1,0 +1,7 @@
+# Echo Bot
+This is a Telegram bot to return whatever user inputs.
+there are 3 steps in making thsi bot:
+1. find @BotFather in Telegram and select /new_bot
+2. choose a name and a valid usernam for your bot.
+3. get the token that @BotFather provides.
+4. 
